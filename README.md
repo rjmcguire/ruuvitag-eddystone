@@ -1,5 +1,5 @@
 # RuuviTag nRF52 Eddystone GATT (GCC) firmware
-[![RuuviTag](http://ruuvitag.com/assets/images/fb_ruuvitag.jpg)](http://ruuvitag.com)
+[![RuuviTag](http://ruuvitag.com/assets/images/coming-soon-to-kickstarter.jpg)](http://ruuvitag.com)
 
 Instructions below are tested using OS X, but basically any Unix distribution should be fine.
 
